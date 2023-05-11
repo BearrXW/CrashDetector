@@ -5,3 +5,4 @@ pip install os
 pip install psutil
 pip install os
 pip install time
+python CrashPredict.py
