@@ -1,4 +1,4 @@
-DON'T OPEN YOUR PROGRAM AS THIS OPENS IT FOR YOU.
+DON'T OPEN YOUR PROGRAM BEFORE RUNNING AS THIS OPENS IT FOR YOU.
 
 Drag the CrashDetect.RAR into your programs folder and then just extract and run CrashDetect.Py (REMEMBER TO PUT YOUR WEBHOOK INSIDE webhook.txt)
 
